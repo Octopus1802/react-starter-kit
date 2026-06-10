@@ -1,5 +1,8 @@
 {
     "$schema": "https://www.schemastore.org/package.json",
+    "name": "octopus1802-reusable-template",
+    "description": "Laravel 13 + React 19 + Inertia v3 + Shadcn UI + Sidebar Starter Kit template",
+    "author": "Javes Cordova",
     "private": true,
     "type": "module",
     "scripts": {
